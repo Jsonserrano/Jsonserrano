@@ -4,7 +4,7 @@ Desarrollador web y de escritorio en formación (**Aprendiz SENA**) en Colombia.
 
 **Tecnologías:** TypeScript · JavaScript · Node.js / Express · Electron · HTML · CSS · SQL / SQLite · Python · Git
 
-📫 [LinkedIn](https://www.linkedin.com/in/jeison-serrano-59445b19b/)
+📫 [WhatsApp](https://wa.me/573193729772?text=Hola%2C%20vi%20tu%20portafolio%20en%20GitHub) · [LinkedIn](https://www.linkedin.com/in/jeison-serrano-59445b19b/)
 
 ---
 
