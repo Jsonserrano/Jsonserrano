@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jeison Serrano 👋</h1>
 
 <p align="center">
-  Desarrollador web y de escritorio en formación (<b>Aprendiz SENA</b>) · Colombia 🇨🇴<br>
+  Desarrollador de Software, web y escritorio · Colombia 🇨🇴<br>
   Hago páginas web, tiendas en línea, apps de escritorio y bots de WhatsApp con IA para negocios reales.
 </p>
 
