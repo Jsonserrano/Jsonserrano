@@ -1,12 +1,12 @@
 <h1 align="center">Hola, soy Jeison Serrano 👋</h1>
 
 <p align="center">
-  Desarrollador de Software, web y escritorio · Colombia 🇨🇴<br>
-  Hago páginas web, tiendas en línea, apps de escritorio y chat bots con IA para negocios reales.
+  Desarrollador de software, web y escritorio · Colombia 🇨🇴<br>
+  Hago páginas web, tiendas en línea, apps de escritorio y chatbots con IA para negocios reales.
 </p>
 
 <p align="center">
-  <a href="https://wa.me/573193729772?text=Hola%2C%20vi%20tu%20portafolio%20en%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-319%20372%209772-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://wa.me/573193729772?text=Hola%2C%20vi%20tu%20portafolio%20en%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-Escr%C3%ADbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://wa.me/c/573193729772"><img src="https://img.shields.io/badge/Cat%C3%A1logo-Connexa%20S.A.S-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Catálogo en WhatsApp"></a>
   <a href="https://www.linkedin.com/in/jeison-serrano-59445b19b/"><img src="https://img.shields.io/badge/LinkedIn-Jeison%20Serrano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -24,6 +24,12 @@
   <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest">
   <img src="https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white" alt="API de Claude">
   <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API">
+</p>
+
+<p align="center">
+  <b>Desarrollo asistido por IA:</b><br>
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini">
 </p>
 
 ---
