@@ -2,7 +2,7 @@
 
 <p align="center">
   Desarrollador de Software, web y escritorio · Colombia 🇨🇴<br>
-  Hago páginas web, tiendas en línea, apps de escritorio y bots de WhatsApp con IA para negocios reales.
+  Hago páginas web, tiendas en línea, apps de escritorio con IA para negocios reales.
 </p>
 
 <p align="center">
