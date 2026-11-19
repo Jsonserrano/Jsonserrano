@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Contacto · Jeison Serrano</title>
+<style>
+  :root{color-scheme:dark}
+  body{margin:0;min-height:100vh;display:grid;place-items:center;background:#0d1117;color:#e6edf3;font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+  main{text-align:center;padding:32px;max-width:420px}
+  h1{font-size:1.5rem;margin:0 0 .5rem}
+  p{color:#9da7b3;margin:0 0 1.5rem}
+  a{display:block;margin:.6rem 0;padding:.85rem 1rem;border-radius:10px;color:#fff;text-decoration:none;font-weight:600}
+  .wa{background:#25d366;color:#062b14} .correo{background:#0078d4} .li{background:#0a66c2}
+</style>
+</head>
+<body>
+<main>
+  <h1>Hola, soy Jeison Serrano 👋</h1>
+  <p>Elige cómo quieres escribirme.</p>
+  <a class="wa" id="wa" href="#">💬 WhatsApp</a>
+  <a class="correo" id="correo" href="#">✉️ Correo</a>
+  <a class="li" href="https://www.linkedin.com/in/jeison-serrano-59445b19b/">in LinkedIn</a>
+  <noscript><p>Activa JavaScript para ver los datos de contacto.</p></noscript>
+</main>
+<script>
+  // El número y el correo no están escritos en la página: se arman aquí,
+  // solo en el navegador de quien la abre. Así los robots que leen el
+  // código de GitHub no los encuentran.
+  const k = 37;
+  const armar = d => d.map((n, i) => String.fromCharCode((n - i) ^ k)).join('');
+  const n = armar([16, 19, 24, 23, 32, 27, 24, 30, 36, 27, 28, 34]);
+  const c = armar([79, 65, 78, 89, 78, 80, 92, 71, 95, 96, 78, 86, 86, 29, 43, 43, 117, 94, 92, 100, 92, 89, 98, 96, 35, 95, 100, 99]);
+  const urlWa = 'https://wa.me/' + n + '?text=' + encodeURIComponent('Hola Jeison, vi tu perfil en GitHub');
+  const urlCorreo = 'mailto:' + c + '?subject=' + encodeURIComponent('Contacto desde GitHub');
+  document.getElementById('wa').href = urlWa;
+  document.getElementById('correo').href = urlCorreo;
+  // Si llegó desde un botón del perfil (#wa o #correo), abre directo.
+  if (location.hash === '#wa') location.replace(urlWa);
+  if (location.hash === '#correo') location.replace(urlCorreo);
+</script>
+</body>
+</html>

@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeison-serrano-59445b19b/"><img src="https://img.shields.io/badge/LinkedIn-Jeison%20Serrano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:jeisonserrano589@hotmail.com"><img src="https://img.shields.io/badge/Email-Cont%C3%A1ctame-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"></a>
-  <a href="https://wa.me/573193729772?text=Hola%20Jeison%2C%20vi%20tu%20perfil%20en%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-Mensaje%20directo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://jsonserrano.github.io/Jsonserrano/contacto.html#correo"><img src="https://img.shields.io/badge/Email-Cont%C3%A1ctame-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"></a>
+  <a href="https://jsonserrano.github.io/Jsonserrano/contacto.html#wa"><img src="https://img.shields.io/badge/WhatsApp-Mensaje%20directo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 <p align="center">
@@ -24,6 +24,12 @@
   <img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest">
   <img src="https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white" alt="API de Claude">
   <img src="https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API">
+</p>
+
+<p align="center">
+  <b>Desarrollo asistido por IA:</b>
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" alt="Gemini">
 </p>
 
 ---
@@ -44,7 +50,7 @@
 | 🌟 [Pausas Activas](https://github.com/Jsonserrano/pausas-activas) | App de escritorio SG-SST offline-first con generación de rutinas por IA | Windows |
 | 🍣 [Nami Sushi Bar](https://github.com/Jsonserrano/nami-sushi-demo) | Web app de pedidos multi-idioma y multi-moneda en tiempo real | [Ver demo](https://jsonserrano.github.io/nami-sushi-demo/) |
 | 🏍️ [Moto Shop Race](https://github.com/Jsonserrano/moto-shop-race) | E-commerce con visor 360°, pagos QR y gestión de usuarios | [Ver demo](https://jsonserrano.github.io/moto-shop-race/) |
-| 🤖 Bot WhatsApp IA | Arquitectura de chatbot con Meta Cloud API y editor visual de flujos | En desarrollo |
+| 🤖 [Bot WhatsApp IA](https://github.com/Jsonserrano/connexa-bot) | Arquitectura de chatbot con Meta Cloud API y editor visual de flujos | En desarrollo |
 
 ---
 
@@ -72,14 +78,13 @@ Tienda en línea con filtros dinámicos, visor 360°, carrito de compras, flujos
 
 <a href="https://github.com/Jsonserrano/moto-shop-race"><img src="https://github.com/Jsonserrano/moto-shop-race/raw/main/docs/demo.gif" alt="Moto Shop Race" width="720"></a>
 
-### 🤖 Bot de WhatsApp con IA + Editor de Flujos *(en desarrollo)*
+### 🤖 [Bot de WhatsApp con IA + Editor de Flujos](https://github.com/Jsonserrano/connexa-bot) *(en desarrollo)*
 - **Editor visual (Frontend):** Interfaz *drag-and-drop* en modo oscuro para diseñar flujos conversacionales (multimedia, botones, listas, condicionales, derivación a humano y nodos de IA) con simulador integrado y exportación a JSON.
-- **Servidor del bot (Backend):** Desarrollado en TypeScript sobre la **API oficial de WhatsApp Cloud (Meta)**. Implementa validación de webhooks (`X-Hub-Signature-256`), deduplicación de mensajes, manejo de colas por usuario e integración con **Claude API**.
+- **Servidor del bot (Backend):** Desarrollado en TypeScript sobre la **API oficial de WhatsApp Cloud (Meta)**. Implementa validación de webhooks (`X-Hub-Signature-256`), deduplicación de mensajes, manejo de colas por usuario e integración con **Claude API**. Incluye pruebas automáticas de punta a punta (`node:test`) y despliegue listo para Render.
 
 ---
 
 <p align="center">
   💼 <b>Abierto a oportunidades laborales como Desarrollador Full-Stack, Frontend o Backend.</b><br>
-  Conversemos por <a href="https://www.linkedin.com/in/jeison-serrano-59445b19b/"><b>LinkedIn</b></a> o escríbeme a <a href="mailto:jeisonserrano589@hotmail.com"><b>jeisonserrano589@hotmail.com</b></a>.
-</p>WhatsApp</b></a>.
+  Conversemos por <a href="https://www.linkedin.com/in/jeison-serrano-59445b19b/"><b>LinkedIn</b></a> o escríbeme por <a href="https://jsonserrano.github.io/Jsonserrano/contacto.html#correo"><b>correo</b></a>.
 </p>
