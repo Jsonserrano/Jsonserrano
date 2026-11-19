@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Jeison Serrano 👋</h1>
 
 <p align="center">
-  Desarrollador de software, web y escritorio · Colombia 🇨🇴<br>
+  Desarrollador de software, web y escritorio · Colombia<br>
   Hago páginas web, tiendas en línea, apps de escritorio y chatbots con IA para negocios reales.
 </p>
 
